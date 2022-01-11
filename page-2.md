@@ -11,4 +11,4 @@ title: À quoi servent les Components ?
     <script></script>
     ```
 
-![Component](../images/component-openclassroom.png){: height="400"}
+![Component](./images/component-openclassroom.png){: height="400"}
