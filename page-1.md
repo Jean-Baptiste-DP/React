@@ -1,13 +1,13 @@
 ---
 layout: page
-before: ../
+before: ./
 after: ./page-2.html
 title: Qu'est ce que React ?
 ---
 
 ## React :
 
-- **Framework** : ensemble d'outils informatiques pour créer l'architecture des logiciel
+- **Framework** : ensemble d'outils informatiques pour créer l'architecture des logiciels
 - **Front**
 - **Développement** : Facebook depuis 2013
 - **Langage** : JavaScript
